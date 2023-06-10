@@ -4,6 +4,8 @@ User Information Table is a table which contains list of users in a table format
 
 ***Will keep on adding new features in the future updates***
 
+Live link -> https://prithvijitbasak.github.io/user-info-table/
+
 ## Installation guides
 Clone this project using commands :-
 
