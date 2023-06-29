@@ -15,4 +15,4 @@ git clone https://github.com/prithvijitbasak/user-info-table.git
 And after cloning just start the live server to see the result.
 
 ## Tech stacks used
-HTML5, JavaScript
+HTML5, JavaScript, Tailwind
