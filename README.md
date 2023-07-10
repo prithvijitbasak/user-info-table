@@ -8,9 +8,12 @@ Live link -> https://prithvijitbasak.github.io/user-info-table/
 
 ## Installation guides
 Clone this project using commands :-
-
-git init <br>
+```
+git init 
+```
+```
 git clone https://github.com/prithvijitbasak/user-info-table.git
+```
 
 And after cloning just start the live server to see the result.
 
